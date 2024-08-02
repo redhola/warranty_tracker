@@ -1,0 +1,9 @@
+com\example\warranty_tracker\model\Device.class
+com\example\warranty_tracker\model\Warranty.class
+com\example\warranty_tracker\service\DeviceService.class
+com\example\warranty_tracker\WarrantyTrackerApplication.class
+com\example\warranty_tracker\controller\WarrantyController.class
+com\example\warranty_tracker\repository\WarrantyRepository.class
+com\example\warranty_tracker\controller\DeviceController.class
+com\example\warranty_tracker\repository\DeviceRepository.class
+com\example\warranty_tracker\service\WarrantyService.class
